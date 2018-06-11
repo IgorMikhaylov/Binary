@@ -10,4 +10,8 @@ public class Test {
     public void setTest2(String test2) {
         this.test2 = test2;
     }
+
+    public void setTest(String test) {
+        this.test = test;
+    }
 }
